@@ -30,4 +30,8 @@ This lists all the repositories on the remote server.
 It can also create a new repository using git remote add <name> <url>
 At the same time, it can delete a remote repository using git remote rm <name>
 
+git branch
+This lists all the branches in the local repository.
+It can also create a new branch in the local repository using git branch new_branch_name
+
 
