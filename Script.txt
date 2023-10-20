@@ -11,3 +11,9 @@ This will ignore the first modified version.
 git status
 This lists all the files in the directory.
 This includes the modified files in the working area; the added files in the staging area; and the current branch.
+
+git commit
+This allows the current node to be joined with the new node.
+They can be thought of as snapshots of a Git project.
+They are created to capture the state of a project at that point in time.
+
