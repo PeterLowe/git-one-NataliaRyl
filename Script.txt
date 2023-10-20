@@ -21,4 +21,8 @@ git init
 This creates a new Git repository.
 It can also re-initiate a previous repository.
 
+git push
+This updates the remote node with the current node.
+It pushes the files from the staging area to the master branch.
+
 
