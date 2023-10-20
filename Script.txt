@@ -8,4 +8,6 @@ Only add files to the next commit you make.
 If you modify the file after adding but before committing, you should add again.
 This will ignore the first modified version.
 
- 
+git status
+This lists all the files in the directory.
+This includes the modified files in the working area; the added files in the staging area; and the current branch.
