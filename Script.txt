@@ -25,4 +25,9 @@ git push
 This updates the remote node with the current node.
 It pushes the files from the staging area to the master branch.
 
+git remote
+This lists all the repositories on the remote server.
+It can also create a new repository using git remote add <name> <url>
+At the same time, it can delete a remote repository using git remote rm <name>
+
 
