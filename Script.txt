@@ -17,3 +17,8 @@ This allows the current node to be joined with the new node.
 They can be thought of as snapshots of a Git project.
 They are created to capture the state of a project at that point in time.
 
+git init
+This creates a new Git repository.
+It can also re-initiate a previous repository.
+
+
