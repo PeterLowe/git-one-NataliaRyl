@@ -41,3 +41,8 @@ It has its own history, manages its own files, and is a completely isolated envi
 git log
 This displays all the commits in a repository’s history.
 It also lists all altered files and the lines changed using git log -- start
+
+git rm
+This removes a file from tracking.
+It is basically he opposite of git add.
+Additionally, it can be used to remove files from both the staging index and the working directory.
