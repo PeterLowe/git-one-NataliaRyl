@@ -37,3 +37,7 @@ It can also create a new branch in the local repository using git branch new_bra
 git clone
 This copies an existing Git repository.
 It has its own history, manages its own files, and is a completely isolated environment from the original repository.
+
+git log
+This displays all the commits in a repository’s history.
+It also lists all altered files and the lines changed using git log -- start
